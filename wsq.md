@@ -6,3 +6,8 @@ the Plan from 2018 12 07
 * LaTex文档
 * Baidu Map on Android
 * 大创学习
+### Daily Plan 
+#### 2018 20 08 周六
+* 计算机网络复习
+* Latex with ENVI
+* android
